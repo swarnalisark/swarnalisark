@@ -31,6 +31,5 @@ Worked on security-focused testing of validation systems, including fuzzing work
 Worked with virtualized SCADA systems, OPC UA, PROFINET, Ethernet/IP, firewall configuration and system debugging.
 
 ## Connect
-- Email: sarkarswarnali36@gmail.com
 - LinkedIn: https://www.linkedin.com/in/swarnalis-s2598/
 - GitHub Projects: https://github.com/swarnalisark/RRDP-Difffuzz
