@@ -27,8 +27,9 @@ Built a differential fuzzing framework in Rust and Python to test RPKI validator
 <img width="837" height="924" alt="image" src="https://github.com/user-attachments/assets/c6b4818a-f592-403f-82d5-9e9521effe87" />
 
 <img width="1124" height="848" alt="image" src="https://github.com/user-attachments/assets/3b11458a-b037-4abe-a5e4-73f8104397c0" />
-<img width="1133" height="819" alt="image" src="https://github.com/user-attachments/assets/237db685-00ff-47ce-96a4-cc9687e4e514" />
-<img width="1133" height="819" alt="image" src="https://github.com/user-attachments/assets/237db685-00ff-47ce-96a4-cc9687e4e514" />
+<img width="1010" height="1046" alt="image" src="https://github.com/user-attachments/assets/3734449b-bc6f-4e99-93ba-55e2d46de4b5" />
+
+<img width="906" height="1136" alt="image" src="https://github.com/user-attachments/assets/3ae26102-bb64-4bdc-8831-8c07d9de6374" />
 
 
 
